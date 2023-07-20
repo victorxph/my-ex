@@ -1,0 +1,1 @@
+Some personal random exercises from various sources.
