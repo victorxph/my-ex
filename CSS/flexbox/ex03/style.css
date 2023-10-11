@@ -1,0 +1,29 @@
+body {
+
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 95vh;
+
+}
+
+.container {
+
+    background-color: white;
+    height: 500px;
+    width: 400px;
+    border:2px solid black;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.child {
+
+    background-color: darkgrey;
+    width: 95%;
+    height: 50%;
+    border: 10px solid white;
+
+}
